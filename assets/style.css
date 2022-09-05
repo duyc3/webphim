@@ -1460,7 +1460,10 @@ textarea {
 .contact-form input:focus, textarea:focus {
 	border-color: #CC5B00
 }
-
+.imageChange {
+     max-width:600px;
+     max-height: 600px ;
+     }
 
 
 
